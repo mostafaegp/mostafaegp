@@ -15,6 +15,10 @@ and more. </p>
 </p>
 
 <h3 align="left">Connect with me:</h3>
+<ul dir="auto">
+<li>business email : <a href="mailto:contact@mostafamahmoud.me">abdullah@mansouracademy.net</a></li>
+</ul>
+
 <p align="left">
 <a href="https://linkedin.com/in/mostafamahmoudin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafamahmoudin" height="30" width="40" /></a>
 </p>
